@@ -1,7 +1,7 @@
-ConGRI Description
+ConGRI
 =
 
-ConGRI is a contrastive learning scheme based on deep Siamese CNN architecture, which automatically learns high-level feature embeddings for the expression images and then feeds the embeddings to an artificial neural network to determine whether or not the interaction exists.
+Reverse engineering of gene regulatory networks (GRNs) has been an attractive research topic in system biology. In recent years, high-throughput spatial gene expression data has shed light on breakthrough development for the inference of GRNs. ConGRI is a contrastive learning scheme based on deep Siamese CNN architecture, which identifies gene regulatory interactions from gene expression images.
 
 # Dataset
 To evaluate ConGRI, we use the eye dataset and mesoderm dataset.  ConGRI outperforms previous traditional and deep learning methods by a large margin, which achieves accuracies of 76.7% and 68.7% for the GRNs of early eye development and mesoderm development, respectively. 
