@@ -1,4 +1,5 @@
-# demo
+ConGRI
+=
     
 # Description
 ConGRI is a contrastive learning scheme based on deep Siamese CNN architecture, which automatically learns high-level feature embeddings for the expression images and then feeds the embeddings to an artificial neural network to determine whether or not the interaction exists.
