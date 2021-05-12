@@ -12,15 +12,19 @@ we perform a two-stage learning procedure, corresponding to feature extraction a
 
 Quik Start
 =
-
+Extracting the features by contrastive learning 
 Feature extractor
 -
 Extracting the features by contrastive learning 
+
 python train_valid.py
 
 Decision module
 -
 Load and aggregate the feature embeddings extracted from the first stage
+
 python aggregation.py
+
 Predict the gene regulatory relationship in the gene-level by Multiple Instance Learning(MIL)
+
 python decision_MIL.py
