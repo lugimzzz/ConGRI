@@ -1,5 +1,7 @@
-ConGRI[Accurate inference of gene regulatory interactions from spatial gene expression with deep contrastive learning](https://academic.oup.com/bioinformatics/article-abstract/38/3/746/6401998)
+ConGRI
 =
+[Accurate inference of gene regulatory interactions from spatial gene expression with deep contrastive learning](https://academic.oup.com/bioinformatics/article-abstract/38/3/746/6401998)
+
 
 Reverse engineering of gene regulatory networks (GRNs) has been an attractive research topic in system biology. In recent years, high-throughput spatial gene expression data has shed light on breakthrough development for the inference of GRNs. ConGRI is a contrastive learning scheme based on deep Siamese CNN architecture, which identifies gene regulatory interactions from gene expression images.
 
